@@ -1,6 +1,7 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import NavigateHome from "./Screens/Lesson 10/NavigateHome";
+// import NavigateHome from "./Screens/Lesson 10/NavigateHome";
+// import Lesson11 from "./Screens/Lesson 11/ProductTable";
 // import Lesson9 from "./Screens/Lesson 9/Lesson 9";
 // import ThemeContext from "./ThemeContext";
 // import "./Style/CountNumber.css";
@@ -16,7 +17,9 @@ function App() {
   // return <Register />;
   // return <table />;
   // return <Lesson9 />;
-  return <NavigateHome />;
+  // return <NavigateHome />;
+  // return <Lesson11 />;
+  return <App />;
 }
 
 export default App;
