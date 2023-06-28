@@ -1,0 +1,32 @@
+* {
+  font-size: large;
+}
+
+.container {
+  justify-content: center;
+  align-items: center;
+}
+
+.header1 {
+  padding: 5px;
+}
+
+button {
+  font-size: 1.5rem;
+  margin: 20px;
+  padding: 5px;
+  max-height: fit-content;
+}
+
+input {
+  margin-block-end: 1rem;
+  background-color: lightgrey;
+  border-radius: 10px;
+}
+
+#details {
+  display: block;
+  margin-top: 20px;
+  padding: 10px;
+  width: 400px;
+}

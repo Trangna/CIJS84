@@ -10,6 +10,9 @@ import "./App.css";
 // import "./Style/LightButton.css";
 // import "./Style/FormRegister.css";
 // import Register from "./Screens/Lesson 3/Register";
+// import Contacts from "./Screens/Practice lessons/Contacts";
+import TodoList from "./Screens/FinalExam_Trang/FinalExam";
+import "./Screens/FinalExam_Trang/FinalExam.css";
 
 function App() {
   // return <CountNumber />;npm
@@ -19,7 +22,8 @@ function App() {
   // return <Lesson9 />;
   // return <NavigateHome />;
   // return <Lesson11 />;
-  return <App />;
+  // return <Contacts />;
+  return <TodoList />;
 }
 
 export default App;
